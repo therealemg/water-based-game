@@ -7,9 +7,9 @@ Water based game is a very fun game.
 
 ## Installation
 1. Install the latest version of git on your system from this link:
-  https://git-scm.com/
+  `https://git-scm.com/`
 2. Run this command:
-  git clone https://github.com/therealemg/water-based-game.git
+  `git clone https://github.com/therealemg/water-based-game.git`
 3. Extract the downloaded zip file into a directory of your choice.
 4. Run the game
 
