@@ -5,9 +5,6 @@ Water based game is a very fun game.
 - Installation
 - Gameplay
 
-## Gameplay
-Used WASD to control the player.
-
 ## Installation
 1. Install the latest version of git on your system from this link:
   https://git-scm.com/
@@ -15,3 +12,6 @@ Used WASD to control the player.
   git clone https://github.com/therealemg/water-based-game.git
 3. Extract the downloaded zip file into a directory of your choice.
 4. Run the game
+
+## Gameplay
+Used WASD to control the player.
